@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Apollo Hospital",
+    "status": "Pending",
+    "color": "#FFC107",
+    "lastSync": "N/A",
+    "logs": ["System created. Waiting for sync."]
+  },
+  {
+    "name": "Fortis Blood Bank",
+    "status": "Synced",
+    "color": "#28A745",
+    "lastSync": "2025-04-10 10:30 AM",
+    "logs": ["Synced successfully at 2025-04-10 10:30 AM"]
+  },
+  {
+    "name": "AIIMS Delhi",
+    "status": "Error",
+    "color": "#DC3545",
+    "lastSync": "2025-04-10 09:00 AM",
+    "logs": ["Error during sync on 2025-04-10 09:00 AM"]
+  },
+  {
+    "name": "Red Cross Blood Bank",
+    "status": "Pending",
+    "color": "#FFC107",
+    "lastSync": "N/A",
+    "logs": ["Initialized. Awaiting first sync."]
+  },
+  {
+    "name": "Manipal Hospital",
+    "status": "Synced",
+    "color": "#28A745",
+    "lastSync": "2025-04-09 04:45 PM",
+    "logs": ["Synced at 2025-04-09 04:45 PM", "Retry successful"]
+  },
+  {
+    "name": "Max Healthcare",
+    "status": "Error",
+    "color": "#DC3545",
+    "lastSync": "2025-04-08 11:15 AM",
+    "logs": ["Connection timeout during sync", "Manual intervention required"]
+  },
+  {
+    "name": "Narayana Health",
+    "status": "Synced",
+    "color": "#28A745",
+    "lastSync": "2025-04-10 06:20 AM",
+    "logs": ["Successfully synced with main server"]
+  },
+  {
+    "name": "BloodLink Center",
+    "status": "Pending",
+    "color": "#FFC107",
+    "lastSync": "N/A",
+    "logs": ["Created system. No sync yet."]
+  },
+  {
+    "name": "CloudNine Hospital",
+    "status": "Synced",
+    "color": "#28A745",
+    "lastSync": "2025-04-10 02:15 PM",
+    "logs": ["System synced at 2025-04-10 02:15 PM"]
+  },
+  {
+    "name": "Jeevan Blood Bank",
+    "status": "Error",
+    "color": "#DC3545",
+    "lastSync": "2025-04-09 08:40 AM",
+    "logs": ["Database mismatch during sync"]
+  }
+]

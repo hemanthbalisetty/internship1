@@ -1,0 +1,9 @@
+.pop-btn {
+    padding: 10px 20px;
+    font-size: 18px;
+    transition: transform 0.1s ease;
+  }
+  
+  .pop-btn.clicked {
+    transform: scale(1.2);
+  }

@@ -1,0 +1,92 @@
+[
+    {
+      "orgId": "HOSP001",
+      "bloodGroup": "A+",
+      "quantity": 30
+    },
+    {
+      "orgId": "HOSP001",
+      "bloodGroup": "O+",
+      "quantity": 25
+    },
+    {
+      "orgId": "HOSP002",
+      "bloodGroup": "B+",
+      "quantity": 18
+    },
+    {
+      "orgId": "HOSP002",
+      "bloodGroup": "O-",
+      "quantity": 12
+    },
+    {
+      "orgId": "HOSP003",
+      "bloodGroup": "A-",
+      "quantity": 15
+    },
+    {
+      "orgId": "HOSP003",
+      "bloodGroup": "AB+",
+      "quantity": 22
+    },
+    {
+      "orgId": "HOSP004",
+      "bloodGroup": "B-",
+      "quantity": 10
+    },
+    {
+      "orgId": "HOSP005",
+      "bloodGroup": "A+",
+      "quantity": 28
+    },
+    {
+      "orgId": "HOSP006",
+      "bloodGroup": "O+",
+      "quantity": 34
+    },
+    {
+      "orgId": "HOSP007",
+      "bloodGroup": "AB-",
+      "quantity": 6
+    },
+    {
+      "orgId": "HOSP008",
+      "bloodGroup": "B+",
+      "quantity": 19
+    },
+    {
+      "orgId": "HOSP009",
+      "bloodGroup": "A+",
+      "quantity": 22
+    },
+    {
+      "orgId": "HOSP010",
+      "bloodGroup": "O-",
+      "quantity": 16
+    },
+    {
+      "orgId": "HOSP011",
+      "bloodGroup": "AB+",
+      "quantity": 11
+    },
+    {
+      "orgId": "HOSP012",
+      "bloodGroup": "O+",
+      "quantity": 40
+    },
+    {
+      "orgId": "HOSP013",
+      "bloodGroup": "A-",
+      "quantity": 13
+    },
+    {
+      "orgId": "HOSP014",
+      "bloodGroup": "B-",
+      "quantity": 9
+    },
+    {
+      "orgId": "HOSP015",
+      "bloodGroup": "O+",
+      "quantity": 37
+    }
+  ]
